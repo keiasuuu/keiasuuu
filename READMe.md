@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a College Student in Bulacan State University Hagonoy Campus
+A college graduate from Bulacan State University Hagonoy Campus
 
 
 # 💻 Tech Stack:
